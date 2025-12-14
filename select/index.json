@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Just Be Friends",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-14T13:27:45.657393Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Just Be Friends (From The Angry Birds Movie 2)",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/01_Let's_Just_Be_Friends_(From_The_Angry_Birds_Movie_2)_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Why Just Be Friends",
+      "artist": "Joe",
+      "has_synced": false,
+      "path": "select/02_Why_Just_Be_Friends_Joe.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Just Be Friends",
+      "artist": "Dixie Flatline",
+      "has_synced": true,
+      "path": "select/03_Just_Be_Friends_Dixie_Flatline.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Just Be Friends",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&巡音ルカ",
+      "has_synced": true,
+      "path": "select/04_Just_Be_Friends_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Be Friends",
+      "artist": "Dixie Flatline",
+      "has_synced": true,
+      "path": "select/05_Just_Be_Friends_Dixie_Flatline.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just Be Friends",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/06_Just_Be_Friends_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just Be Friends",
+      "artist": "NANO",
+      "has_synced": false,
+      "path": "select/07_Just_Be_Friends_NANO.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Just Be Friends (Diving into thE Piano arrange) feat.柿原徹也",
+      "artist": "Dixie Flatline",
+      "has_synced": true,
+      "path": "select/08_Just_Be_Friends_(Diving_into_thE_Piano_arrange)_feat.柿原徹也_Dixie_Flatline.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just Be Friends",
+      "artist": "Dixie Flatline feat. 巡音ルカ",
+      "has_synced": true,
+      "path": "select/09_Just_Be_Friends_Dixie_Flatline_feat._巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just Be Friends - Piano Ver.",
+      "artist": "Dixie Flatline",
+      "has_synced": false,
+      "path": "select/10_Just_Be_Friends_-_Piano_Ver._Dixie_Flatline.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Just Be Friends",
+      "artist": "Dixie Flatline",
+      "has_synced": true,
+      "path": "select/11_Just_Be_Friends_Dixie_Flatline.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Until I Found You (Sped Up) - Heaven When I Held You Again How Could We Ever Just Be Friends",
+      "artist": "Hiko",
+      "has_synced": true,
+      "path": "select/12_Until_I_Found_You_(Sped_Up)_-_Heaven_When_I_Held_You_Again_How_Could_We_Ever_Jus_Hiko.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Just Be Friends",
+      "artist": "Dixie Flatline feat. Megurine Luka",
+      "has_synced": true,
+      "path": "select/13_Just_Be_Friends_Dixie_Flatline_feat._Megurine_Luka.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just Be Friends (feat. 巡音ルカ)",
+      "artist": "Dixie Flatline feat. Megurine Luka",
+      "has_synced": true,
+      "path": "select/14_Just_Be_Friends_(feat._巡音ルカ)_Dixie_Flatline_feat._Megurine_Luka.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Let's Just Be Friends (feat. Tuomo)",
+      "artist": "Kero One",
+      "has_synced": false,
+      "path": "select/15_Let's_Just_Be_Friends_(feat._Tuomo)_Kero_One.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Why Just Be Friends",
+      "artist": "Joe",
+      "has_synced": true,
+      "path": "select/16_Why_Just_Be_Friends_Joe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Just Be Friends",
+      "artist": "Vivid Bad Squad",
+      "has_synced": false,
+      "path": "select/pl_01_Just_Be_Friends_Vivid_Bad_Squad.txt"
+    }
+  ]
+}
